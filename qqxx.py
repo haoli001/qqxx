@@ -28,6 +28,3 @@ class qq_message:
 			elif(filename!=None):
 		 		with open(path+'/user/%s'%filename,'a') as writ:
 					writ.write(i)
-if __name__=='__main__':
-	with open('./history')
-	a=qq_message()
